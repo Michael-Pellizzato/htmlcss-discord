@@ -80,6 +80,7 @@ header{
 
  .ita-flag{
     display: flex;
+    flex-direction: row;
     align-items: center;
     width: 20%;
     gap: 5px;
@@ -94,5 +95,24 @@ header{
     width: 15%; 
     color: white;  
  }
- 
+
+ .blu{
+    color: #6880D1;
+ }
+
+ .hr{
+    color: #6880D1;
+    border-color: #6880D1;
+    border-style: groove;
+    margin-left: 2%;
+    margin-right: 2%;
+ }
+
+ .footer-end{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-right: 2%;
+ }
  
