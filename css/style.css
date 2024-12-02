@@ -65,6 +65,34 @@ header{
     border-radius: 15px;
     color: white;
     background-color: #7289DA;
- }  
+    padding: 10px;
+ } 
+ 
+ footer{
+    background-color: #23272A;
+    background-size: auto;
+    padding: 20px;
+ }
+
+ .titolo-blu{
+    color: #6880D1;
+ }
+
+ .ita-flag{
+    display: flex;
+    align-items: center;
+    width: 20%;
+    gap: 5px;
+ }
+
+ .container-footer{
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .prodotto{
+    width: 15%; 
+    color: white;  
+ }
  
  
