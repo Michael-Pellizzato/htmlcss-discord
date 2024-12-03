@@ -21,6 +21,7 @@ header{
 .button-accedi{
     border-radius: 15px;
     padding: 10px;
+    border: none;
 }
 
 .flex-column{
@@ -37,6 +38,7 @@ header{
 .scarica{
     border-radius: 15px;
     padding: 10px;
+    border: none;
 }
 
  .apri{
@@ -44,6 +46,7 @@ header{
     color: white;
     border-radius: 15px;
     padding: 10px;
+    border: none;
  }
 
  .main-flex{
@@ -67,6 +70,7 @@ header{
     color: white;
     background-color: #7289DA;
     padding: 10px;
+    border: none;
  } 
  
  footer{
