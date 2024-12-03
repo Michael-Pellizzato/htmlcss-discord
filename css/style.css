@@ -4,6 +4,7 @@ header{
     background-image: url(../img/jumbo.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 .head{
@@ -19,6 +20,7 @@ header{
 
 .button-accedi{
     border-radius: 15px;
+    padding: 10px;
 }
 
 .flex-column{
@@ -34,12 +36,14 @@ header{
 
 .scarica{
     border-radius: 15px;
+    padding: 10px;
 }
 
  .apri{
     background-color: black;
     color: white;
     border-radius: 15px;
+    padding: 10px;
  }
 
  .main-flex{
